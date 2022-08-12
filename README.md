@@ -1,2 +1,2 @@
 # drum-kit
-I had created drumkit using javascript DOM concept.....
+I had completed the drum kit challenge in udemy course.
